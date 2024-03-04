@@ -9,4 +9,5 @@ I developed the Dino game of Chrome using JavaScript, HTML, and CSS, with the pr
 Javascript, HTML, CSS...
 
 
-
+## 🔗Live Link
+https://heroic-pasca-8ebcf8.netlify.app/
